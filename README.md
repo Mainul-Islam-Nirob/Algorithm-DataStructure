@@ -7,3 +7,4 @@ After a Long Gap-- Recap and practice of basic Algorithm and Data Structure
 5.Recursive Fibonacci
 6.Recursive Factorial
 7.Linear Search
+8.Binary Search

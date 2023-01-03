@@ -6,3 +6,4 @@ After a Long Gap-- Recap and practice of basic Algorithm and Data Structure
 4.Power of two checker
 5.Recursive Fibonacci
 6.Recursive Factorial
+7.Linear Search

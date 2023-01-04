@@ -10,3 +10,4 @@ After a Long Gap-- Recap and practice of basic Algorithm and Data Structure
 8.Binary Search
 9.Recursive Binary Search
 10.Bubble Sort
+11.Insertion Sort
